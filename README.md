@@ -4,6 +4,19 @@
 
 ---
 
+<!-- 🚀 LIVE PROTOTYPE EMBED MATRIX -->
+<div align="center">
+  
+  [![Live Demo](https://shields.io)](PASTE_YOUR_BOLT_URL_HERE)
+  
+  ### 🖱️ Click the button above to launch the interactive dashboard live!
+  
+  <sub>**Built with React & TypeScript on Bolt.new** • Zero setup required • Runs directly in your browser</sub>
+
+  ---
+</div>
+
+
 ## 🚀 What It Does
 **Git Time Machine** turns flat, text-heavy version control history into a dynamic dashboard. It allows developers, project managers, and code auditors to scroll fluidly through a repository's history, watching files evolve and change line-by-line via an automated visual time-lapse.
 
