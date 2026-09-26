@@ -7,7 +7,7 @@
 <!-- 🚀 LIVE PROTOTYPE EMBED MATRIX -->
 <div align="center">
   
-  [![Live Demo](https://shields.io)](PASTE_YOUR_BOLT_URL_HERE)
+  [![Git Time Machine](https://shields.io)](https://git-time-machine-das-g7su.bolt.host/)
   
   ### 🖱️ Click the button above to launch the interactive dashboard live!
   
